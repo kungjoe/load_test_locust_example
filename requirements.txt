@@ -1,0 +1,2 @@
+locust==2.23.1
+pymongo==4.6.2
